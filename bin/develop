@@ -1,0 +1,13 @@
+#!/home/ignacio/plone-virtualenv/bin/python
+
+import sys
+sys.path[0:0] = [
+  '/home/ignacio/myplone/eggs/mr.developer-1.17-py2.7.egg',
+  '/home/ignacio/myplone/eggs/zc.buildout-1.4.4-py2.7.egg',
+  '/home/ignacio/myplone/eggs/setuptools-0.6c11-py2.7.egg',
+  ]
+
+import mr.developer.develop
+
+if __name__ == '__main__':
+    mr.developer.develop.develop()

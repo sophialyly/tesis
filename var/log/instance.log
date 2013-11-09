@@ -1,0 +1,50 @@
+------
+2013-10-21T08:44:52 INFO ZServer HTTP server started at Mon Oct 21 08:44:52 2013
+	Hostname: 0.0.0.0
+	Port: 8080
+------
+2013-10-21T08:44:54 INFO ZODB.blob (19250) Blob directory `/home/ignacio/myplone/var/blobstorage` is unused and has no layout marker set. Selected `bushy` layout. 
+------
+2013-10-21T08:44:54 INFO ZODB.blob (19250) Blob temporary directory '/home/ignacio/myplone/var/blobstorage/tmp' does not exist. Created new directory.
+------
+2013-10-21T08:44:54 WARNING ZODB.blob (19250) Blob dir /home/ignacio/myplone/var/blobstorage/ has insecure mode setting
+------
+2013-10-21T08:45:00 INFO Zope Ready to handle requests
+------
+2013-10-21T08:47:59 INFO SignalHandler Caught signal SIGINT
+------
+2013-10-21T08:47:59 INFO Z2 Shutting down
+------
+2013-10-22T10:58:51 INFO ZServer HTTP server started at Tue Oct 22 10:58:51 2013
+	Hostname: 0.0.0.0
+	Port: 8080
+------
+2013-10-22T10:58:53 WARNING ZODB.FileStorage Ignoring index for /home/ignacio/myplone/var/filestorage/Data.fs
+------
+2013-10-22T10:58:53 WARNING ZODB.blob (19728) Blob dir /home/ignacio/myplone/var/blobstorage/ has insecure mode setting
+------
+2013-10-22T10:58:59 INFO Zope Ready to handle requests
+------
+2013-11-09T09:11:25 INFO SignalHandler Caught signal SIGINT
+------
+2013-11-09T09:11:25 INFO Z2 Shutting down
+------
+2013-11-09T09:16:02 INFO ZServer HTTP server started at Sat Nov  9 09:16:02 2013
+	Hostname: 0.0.0.0
+	Port: 8080
+------
+2013-11-09T09:16:04 WARNING ZODB.blob (20995) Blob dir /home/ignacio/myplone/var/blobstorage/ has insecure mode setting
+------
+2013-11-09T09:16:09 INFO Zope Ready to handle requests
+------
+2013-11-09T09:16:22 INFO SignalHandler Caught signal SIGINT
+------
+2013-11-09T09:16:22 INFO Z2 Shutting down
+------
+2013-11-09T09:20:07 INFO ZServer HTTP server started at Sat Nov  9 09:20:07 2013
+	Hostname: 0.0.0.0
+	Port: 8080
+------
+2013-11-09T09:20:09 WARNING ZODB.blob (21045) Blob dir /home/ignacio/myplone/var/blobstorage/ has insecure mode setting
+------
+2013-11-09T09:20:14 INFO Zope Ready to handle requests
